@@ -1,0 +1,33 @@
+{
+    "name": "linkIt",
+    "title": "LinkIt jQuery Plugin",
+    "description": "LinkIt is a simple jQuery plugin to attack links to elements.",
+    "keywords": [
+        "link",
+        "html",
+        "content"
+    ],
+    "version": "0.1.0",
+    "author": {
+        "name": "Nathan MacDonald",
+        "url": "https://github.com/nlmacdonald/jquery.linkit"
+    },
+    "maintainers": [
+        {
+            "name": "Nathan MacDonald",
+            "email": "",
+            "url": ""
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/nlmacdonald/jquery.linkit/LICENSE.txt"
+        }
+    ],
+    "homepage": "https://github.com/nlmacdonald/jquery.linkit",
+    "docs": "https://github.com/nlmacdonald/jquery.linkit",
+    "dependencies": {
+        "jquery": ">=1.5"
+    }
+}
